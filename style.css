@@ -188,3 +188,12 @@ button {
   font-size: 16px;
   color: #ffffff;
 }
+
+/* Footer */
+
+.footer {
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+  padding: 36px;
+}
